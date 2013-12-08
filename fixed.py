@@ -1,1 +1,1 @@
-print "I'm gonna fail"
+print "I'm gonna pass"
