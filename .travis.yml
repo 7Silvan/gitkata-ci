@@ -1,4 +1,4 @@
 language:  python
 install:  true
 script: 
--  python fixed.py
+-  python nosetests -v
